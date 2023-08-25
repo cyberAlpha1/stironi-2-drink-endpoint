@@ -56,7 +56,7 @@
 			}
 		},
 		{
-			"name": "Lode Bottega Limoncino",
+			"name": "Bottega Limoncino",
 			"type": "Liqour",
 			"barcode": "8005829514006",
 			"volume": 500,
@@ -64,6 +64,15 @@
 			"price": {
 				"Rimi": 19.39,
 				"Alk Outlet": 13.99
+			}
+		},
+		{
+			"name": "Moka",
+			"type": "Liqour",
+			"barcode": "4750021310959",
+			"volume": 200,
+			"alcohol": 30,
+			"price": {
 			}
 		}
     ]
