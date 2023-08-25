@@ -74,6 +74,16 @@
 			"alcohol": 30,
 			"price": {
 			}
+		},
+		{
+			"name": "Jagermeister",
+			"type": "Liqour",
+			"barcode": "4067700002136",
+			"volume": 500,
+			"alcohol": 33,
+			"price": {
+				"Rimi": 13.19
+			}
 		}
     ]
 }
