@@ -80,9 +80,29 @@
 			"type": "Liqour",
 			"barcode": "4067700002136",
 			"volume": 500,
-			"alcohol": 33,
+			"alcohol": 35,
 			"price": {
 				"Rimi": 13.19
+			}
+		},
+		{
+			"name": "Mežpils Senču",
+			"type": "Beer",
+			"barcode": "4750049002287",
+			"volume": 500,
+			"alcohol": 4.5,
+			"price": {
+				"Rimi": 1.85
+			}
+		},
+		{
+			"name": "Koskenkorva",
+			"type": "Vodka",
+			"barcode": "6412700148007",
+			"volume": 700,
+			"alcohol": 40,
+			"price": {
+				"Rimi": 17.05
 			}
 		}
     ]
