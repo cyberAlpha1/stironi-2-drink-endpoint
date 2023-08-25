@@ -1,0 +1,70 @@
+{
+	"shops": [
+		"Rimi",
+		"Alk Outlet",
+		"alkoshop.ee"
+	],
+    "drinks": [
+    	{
+			"name": "Kometa",
+			"type": "Wine",
+			"barcode": "4811056002991",
+			"volume": 700,
+			"alcohol": 21,
+			"price": {
+				"alkoshop.ee": 3.49
+			}
+		},
+		{
+			"name": "Lode Original & Lime",
+			"type": "Cocktail",
+			"barcode": "",
+			"volume": 500,
+			"alcohol": 14,
+			"price": {
+				"Rimi": 2.39
+			}
+		},
+		{
+			"name": "Lode Original & Cherry",
+			"type": "Cocktail",
+			"barcode": "",
+			"volume": 500,
+			"alcohol": 14,
+			"price": {
+				"Rimi": 2.39
+			}
+		},
+		{
+			"name": "Lode Black Original & Grapefruit",
+			"type": "Cocktail",
+			"barcode": "",
+			"volume": 500,
+			"alcohol": 14,
+			"price": {
+				"Rimi": 2.39
+			}
+		},
+		{
+			"name": "Lode Black Currant",
+			"type": "Cocktail",
+			"barcode": "",
+			"volume": 500,
+			"alcohol": 14,
+			"price": {
+				"Rimi": 2.39
+			}
+		},
+		{
+			"name": "Lode Bottega Limoncino",
+			"type": "Liqour",
+			"barcode": "8005829514006",
+			"volume": 500,
+			"alcohol": 30,
+			"price": {
+				"Rimi": 19.39,
+				"Alk Outlet": 13.99
+			}
+		}
+    ]
+}
