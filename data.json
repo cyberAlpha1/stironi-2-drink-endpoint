@@ -7,7 +7,7 @@
     "drinks": [
     	{
 			"name": "Kometa",
-			"type": "Wine",
+			"type": "wine",
 			"barcode": "4811056002991",
 			"volume": 700,
 			"alcohol": 21,
@@ -17,7 +17,7 @@
 		},
 		{
 			"name": "Lode Original & Lime",
-			"type": "Cocktail",
+			"type": "cocktail",
 			"barcode": "",
 			"volume": 500,
 			"alcohol": 14,
@@ -27,7 +27,7 @@
 		},
 		{
 			"name": "Lode Original & Cherry",
-			"type": "Cocktail",
+			"type": "cocktail",
 			"barcode": "",
 			"volume": 500,
 			"alcohol": 14,
@@ -37,7 +37,7 @@
 		},
 		{
 			"name": "Lode Black Original & Grapefruit",
-			"type": "Cocktail",
+			"type": "cocktail",
 			"barcode": "",
 			"volume": 500,
 			"alcohol": 14,
@@ -47,7 +47,7 @@
 		},
 		{
 			"name": "Lode Black Currant",
-			"type": "Cocktail",
+			"type": "cocktail",
 			"barcode": "",
 			"volume": 500,
 			"alcohol": 14,
@@ -57,7 +57,7 @@
 		},
 		{
 			"name": "Bottega Limoncino",
-			"type": "Liqour",
+			"type": "liqour",
 			"barcode": "8005829514006",
 			"volume": 500,
 			"alcohol": 30,
@@ -68,7 +68,7 @@
 		},
 		{
 			"name": "Moka",
-			"type": "Liqour",
+			"type": "liqour",
 			"barcode": "4750021310959",
 			"volume": 200,
 			"alcohol": 30,
@@ -77,7 +77,7 @@
 		},
 		{
 			"name": "Jagermeister",
-			"type": "Liqour",
+			"type": "liqour",
 			"barcode": "4067700002136",
 			"volume": 500,
 			"alcohol": 35,
@@ -87,7 +87,7 @@
 		},
 		{
 			"name": "Mežpils Senču",
-			"type": "Beer",
+			"type": "beer",
 			"barcode": "4750049002287",
 			"volume": 500,
 			"alcohol": 4.5,
@@ -96,13 +96,113 @@
 			}
 		},
 		{
-			"name": "Koskenkorva",
-			"type": "Vodka",
+			"name": "Koskenkorva Original",
+			"type": "vodka",
 			"barcode": "6412700148007",
 			"volume": 700,
 			"alcohol": 40,
 			"price": {
 				"Rimi": 17.05
+			}
+		},
+		{
+			"name": "Koskenkorva Original",
+			"type": "vodka",
+			"barcode": "6412700014203",
+			"volume": 500,
+			"alcohol": 40,
+			"price": {
+				"Veikals": 0.00
+			}
+		},
+		{
+			"name": "Koskenkorva Minttu",
+			"type": "liqour",
+			"barcode": "6412700311203",
+			"volume": 500,
+			"alcohol": 35,
+			"price": {
+				"Veikals": 0.00
+			}
+		},
+		{
+			"name": "Vinitto Blanco",
+			"type": "wine",
+			"barcode": "4750142001088",
+			"volume": 275,
+			"alcohol": 5.5,
+			"price": {
+				"Veikals": 0.00
+			}
+		},
+		{
+			"name": "Valmiermuiža Brīvība",
+			"type": "beer",
+			"barcode": "4751012093172",
+			"volume": 330,
+			"alcohol": 5.8,
+			"price": {
+				"Veikals": 0.00
+			}
+		},
+		{
+			"name": "Tanker Sauna Session",
+			"type": "beer",
+			"barcode": "4744109019407",
+			"volume": 440,
+			"alcohol": 4.7,
+			"price": {
+				"Veikals": 0.00
+			}
+		},
+		{
+			"name": "Põhjala Kosmos Ne Ipa",
+			"type": "beer",
+			"barcode": "4742976013597",
+			"volume": 330,
+			"alcohol": 5.5,
+			"price": {
+				"Veikals": 0.00
+			}
+		},
+		{
+			"name": "Mežpils",
+			"type": "beer",
+			"barcode": "4750049002263",
+			"volume": 500,
+			"alcohol": 5.3,
+			"price": {
+				"Veikals": 0.00
+			}
+		},
+		{
+			"name": "Lāčplēsis Dzintara",
+			"type": "beer",
+			"barcode": "4750132007533",
+			"volume": 500,
+			"alcohol": 4.8,
+			"price": {
+				"Veikals": 0.00
+			}
+		},
+		{
+			"name": "Xuxu Strawberry",
+			"type": "cocktail",
+			"barcode": "4000269001356",
+			"volume": 1000,
+			"alcohol": 15,
+			"price": {
+				"Veikals": 0.00
+			}
+		},
+		{
+			"name": "Mateus The Original Rosé",
+			"type": "",
+			"barcode": "5601012011609",
+			"volume": 1000,
+			"alcohol": 11,
+			"price": {
+				"Veikals": 0.00
 			}
 		}
     ]
