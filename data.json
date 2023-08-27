@@ -15,6 +15,76 @@
   "Vynoteka"
 ],"drinks":[
   {
+    "Name": "Aldaris Gaišais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 3408,
+    "Alcohol": 5.0,
+    "Price": {
+      "Rimi": 9.39
+    }
+  },
+  {
+    "Name": "Aldaris Gaišais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 568,
+    "Alcohol": 5.0,
+    "Price": {
+      "Rimi": 1.55
+    }
+  },
+  {
+    "Name": "Aldaris Ķirsis",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 568,
+    "Alcohol": 4.5,
+    "Price": {
+      "Rimi": 1.95
+    }
+  },
+  {
+    "Name": "Aldaris Ķiršu",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 4.5,
+    "Price": {
+      "Rimi": 1.99
+    }
+  },
+  {
+    "Name": "Aldaris Luksus",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 568,
+    "Alcohol": 5.2,
+    "Price": {
+      "Rimi": 1.59
+    }
+  },
+  {
+    "Name": "Aldaris Medalus",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 4.0,
+    "Price": {
+      "Rimi": 1.99
+    }
+  },
+  {
+    "Name": "Aldaris Pilzenes",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 568,
+    "Alcohol": 4.2,
+    "Price": {
+      "Rimi": 1.19
+    }
+  },
+  {
     "Name": "Bacardi Carta Blanca",
     "Type": "rum",
     "Barcode": "",
@@ -97,6 +167,130 @@
     }
   },
   {
+    "Name": "Cēsu Brūža Nefiltrēts",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 568,
+    "Alcohol": 5.4,
+    "Price": {
+      "Rimi": 1.55
+    }
+  },
+  {
+    "Name": "Cēsu Džons Grapefruit",
+    "Type": "cocktail",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 5.0,
+    "Price": {
+      "Rimi": 3.15
+    }
+  },
+  {
+    "Name": "Cēsu Džons Green Lime",
+    "Type": "cocktail",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 5.0,
+    "Price": {
+      "Rimi": 3.15
+    }
+  },
+  {
+    "Name": "Cēsu Premium",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 568,
+    "Alcohol": 5.0,
+    "Price": {
+      "Rimi": 1.35
+    }
+  },
+  {
+    "Name": "Cēsu Premium Bohemian",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 568,
+    "Alcohol": 4.5,
+    "Price": {
+      "Rimi": 1.35
+    }
+  },
+  {
+    "Name": "Cēsu Radler Blue Lagoon",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 2.5,
+    "Price": {
+      "Rimi": 1.39
+    }
+  },
+  {
+    "Name": "Cēsu Radler Mojito",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 2.5,
+    "Price": {
+      "Rimi": 1.49
+    }
+  },
+  {
+    "Name": "Cēsu Radler Watermelon",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 2.5,
+    "Price": {
+      "Rimi": 1.39
+    }
+  },
+  {
+    "Name": "Cēsu Radler Zemeņu",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 2.5,
+    "Price": {
+      "Rimi": 1.39
+    }
+  },
+  {
+    "Name": "Jack Daniel's",
+    "Type": "whiskey",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 40.0,
+    "Price": {
+      "Alk Outlet": 29.99,
+      "Rimi": 34.49,
+      "Spirits & Wines": 26.99
+    }
+  },
+  {
+    "Name": "Jack Daniel's",
+    "Type": "whiskey",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 40.0,
+    "Price": {
+      "Alk Outlet": 23.99,
+      "Rimi": 25.99,
+      "Spirits & Wines": 21.89
+    }
+  },
+  {
+    "Name": "Jagermeister",
+    "Type": "liqour",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 35.0,
+    "Price": {
+      "Alk Outlet": 25.99
+    }
+  },
+  {
     "Name": "Jagermeister",
     "Type": "liqour",
     "Barcode": "4067700002136",
@@ -127,6 +321,26 @@
     }
   },
   {
+    "Name": "Koskenkorva Blueberry",
+    "Type": "liqour",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 21.0,
+    "Price": {
+      "Alk Outlet": 9.99
+    }
+  },
+  {
+    "Name": "Koskenkorva Forest Berries",
+    "Type": "liqour",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 21.0,
+    "Price": {
+      "Alk Outlet": 9.99
+    }
+  },
+  {
     "Name": "Koskenkorva Minttu",
     "Type": "liqour",
     "Barcode": "6412700311203",
@@ -153,6 +367,7 @@
     "Volume_ml": 1000,
     "Alcohol": 40.0,
     "Price": {
+      "Alk Outlet": 19.99,
       "Rimi": 18.19
     }
   },
@@ -174,6 +389,26 @@
     "Alcohol": 40.0,
     "Price": {
       "Rimi": 12.79
+    }
+  },
+  {
+    "Name": "Koskenkorva Rabarberu",
+    "Type": "liqour",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 21.0,
+    "Price": {
+      "Alk Outlet": 9.99
+    }
+  },
+  {
+    "Name": "Koskenkorva Raspberry Pine",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 37.5,
+    "Price": {
+      "Alk Outlet": 19.99
     }
   },
   {
@@ -320,6 +555,58 @@
     }
   },
   {
+    "Name": "Malibu",
+    "Type": "rum",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 21.0,
+    "Price": {
+      "Alk Outlet": 19.99,
+      "Rimi": 18.39,
+      "Spirits & Wines": 15.29
+    }
+  },
+  {
+    "Name": "Malibu",
+    "Type": "rum",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 21.0,
+    "Price": {
+      "Rimi": 13.39
+    }
+  },
+  {
+    "Name": "Martell Cohiba",
+    "Type": "cognac",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 43.0,
+    "Price": {
+      "Alk Outlet": 489.99
+    }
+  },
+  {
+    "Name": "Martell L'Or De Jean",
+    "Type": "cognac",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 40.0,
+    "Price": {
+      "Spirits & Wines": 5599.99
+    }
+  },
+  {
+    "Name": "Martell VSOP",
+    "Type": "cognac",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 40.0,
+    "Price": {
+      "Alk Outlet": 49.99
+    }
+  },
+  {
     "Name": "Martini Asti",
     "Type": "wine",
     "Barcode": "8000570435402",
@@ -448,10 +735,50 @@
   {
     "Name": "Moka",
     "Type": "liqour",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 30.0,
+    "Price": {
+      "Spirits & Wines": 14.79
+    }
+  },
+  {
+    "Name": "Moka",
+    "Type": "liqour",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 30.0,
+    "Price": {
+      "Spirits & Wines": 7.49
+    }
+  },
+  {
+    "Name": "Moka",
+    "Type": "liqour",
     "Barcode": "4750021310959",
     "Volume_ml": 200,
     "Alcohol": 30.0,
     "Price": {}
+  },
+  {
+    "Name": "Oakheart Original Spiced",
+    "Type": "rum",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 35.0,
+    "Price": {
+      "Rimi": 14.99
+    }
+  },
+  {
+    "Name": "Oakheart Original Spiced",
+    "Type": "rum",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 35.0,
+    "Price": {
+      "Rimi": 18.99
+    }
   },
   {
     "Name": "Põhjala Kosmos Ne Ipa",
@@ -460,6 +787,38 @@
     "Volume_ml": 330,
     "Alcohol": 5.5,
     "Price": {}
+  },
+  {
+    "Name": "Raiskumietis Gaišais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 5.6,
+    "Price": {
+      "Rimi": 4.49,
+      "Spirits & Wines": 3.95
+    }
+  },
+  {
+    "Name": "Raiskumietis Gaišais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.6,
+    "Price": {
+      "Spirits & Wines": 2.45
+    }
+  },
+  {
+    "Name": "Raiskumietis Tumšais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 5.6,
+    "Price": {
+      "Rimi": 4.59,
+      "Spirits & Wines": 4.05
+    }
   },
   {
     "Name": "Rīgas Melnais",
@@ -639,6 +998,58 @@
     "Volume_ml": 440,
     "Alcohol": 4.7,
     "Price": {}
+  },
+  {
+    "Name": "Tuborg",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 3000,
+    "Alcohol": 4.6,
+    "Price": {
+      "Rimi": 7.79
+    }
+  },
+  {
+    "Name": "Tuborg",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 568,
+    "Alcohol": 4.6,
+    "Price": {
+      "Alk Outlet": 1.49
+    }
+  },
+  {
+    "Name": "Tuborg Green",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 330,
+    "Alcohol": 4.6,
+    "Price": {
+      "Alk Outlet": 1.65,
+      "Rimi": 1.79
+    }
+  },
+  {
+    "Name": "Tuborg Ice",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 330,
+    "Alcohol": 4.2,
+    "Price": {
+      "Rimi": 1.99
+    }
+  },
+  {
+    "Name": "Tuborg Lime Cut",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 330,
+    "Alcohol": 4.5,
+    "Price": {
+      "Alk Outlet": 1.65,
+      "Rimi": 1.99
+    }
   },
   {
     "Name": "Tullamore Dew",
