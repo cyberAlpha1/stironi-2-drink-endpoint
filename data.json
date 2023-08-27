@@ -21,6 +21,7 @@
     "Volume_ml": 1000,
     "Alcohol": 37.5,
     "Price": {
+      "Alk Outlet": 23.99,
       "Rimi": 26.99
     }
   },
@@ -41,6 +42,7 @@
     "Volume_ml": 1000,
     "Alcohol": 37.5,
     "Price": {
+      "Alk Outlet": 23.99,
       "Rimi": 27.99
     }
   },
@@ -61,6 +63,7 @@
     "Volume_ml": 1000,
     "Alcohol": 35.0,
     "Price": {
+      "Alk Outlet": 23.99,
       "Rimi": 25.79
     }
   },
@@ -205,6 +208,36 @@
     }
   },
   {
+    "Name": "Lāčplēsis Dzintara Skārdene",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 4.8,
+    "Price": {
+      "Rimi": 1.29
+    }
+  },
+  {
+    "Name": "Lāčplēsis Ekstra",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 568,
+    "Alcohol": 5.2,
+    "Price": {
+      "Rimi": 1.49
+    }
+  },
+  {
+    "Name": "Lāčplēsis Ekstra",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.2,
+    "Price": {
+      "Rimi": 1.59
+    }
+  },
+  {
     "Name": "Lāčplēsis Gaišais",
     "Type": "beer",
     "Barcode": "",
@@ -252,6 +285,7 @@
     "Volume_ml": 500,
     "Alcohol": 14.0,
     "Price": {
+      "Alk Outlet": 2.29,
       "Rimi": 2.39
     }
   },
@@ -430,11 +464,172 @@
   {
     "Name": "Rīgas Melnais",
     "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 45.0,
+    "Price": {
+      "Alk Outlet": 20.99
+    }
+  },
+  {
+    "Name": "Rīgas Melnais",
+    "Type": "balsam",
     "Barcode": "4750021537295",
     "Volume_ml": 500,
     "Alcohol": 45.0,
     "Price": {
+      "Alk Outlet": 11.99,
       "Rimi": 11.09
+    }
+  },
+  {
+    "Name": "Rīgas Melnais",
+    "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 350,
+    "Alcohol": 45.0,
+    "Price": {
+      "Alk Outlet": 8.49
+    }
+  },
+  {
+    "Name": "Rīgas Melnais",
+    "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 200,
+    "Alcohol": 45.0,
+    "Price": {
+      "Alk Outlet": 5.59
+    }
+  },
+  {
+    "Name": "Rīgas Melnais",
+    "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 40,
+    "Alcohol": 45.0,
+    "Price": {
+      "Alk Outlet": 1.69
+    }
+  },
+  {
+    "Name": "Rīgas Melnais Chocolate&Mint",
+    "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 30.0,
+    "Price": {
+      "Alk Outlet": 11.99
+    }
+  },
+  {
+    "Name": "Rīgas Melnais Ķiršu",
+    "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 30.0,
+    "Price": {
+      "Alk Outlet": 14.99
+    }
+  },
+  {
+    "Name": "Rīgas Melnais Ķiršu",
+    "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 30.0,
+    "Price": {
+      "Alk Outlet": 11.99
+    }
+  },
+  {
+    "Name": "Rīgas Melnais Ķiršu",
+    "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 200,
+    "Alcohol": 30.0,
+    "Price": {
+      "Alk Outlet": 5.59
+    }
+  },
+  {
+    "Name": "Rīgas Melnais Ķiršu",
+    "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 40,
+    "Alcohol": 30.0,
+    "Price": {
+      "Alk Outlet": 1.69
+    }
+  },
+  {
+    "Name": "Rīgas Melnais Upeņu",
+    "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 30.0,
+    "Price": {
+      "Alk Outlet": 20.99
+    }
+  },
+  {
+    "Name": "Rīgas Melnais Upeņu",
+    "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 30.0,
+    "Price": {
+      "Alk Outlet": 14.99
+    }
+  },
+  {
+    "Name": "Rīgas Melnais Upeņu",
+    "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 30.0,
+    "Price": {
+      "Alk Outlet": 11.99
+    }
+  },
+  {
+    "Name": "Rīgas Melnais Upeņu",
+    "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 350,
+    "Alcohol": 30.0,
+    "Price": {
+      "Alk Outlet": 8.49
+    }
+  },
+  {
+    "Name": "Rīgas Melnais Upeņu",
+    "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 200,
+    "Alcohol": 30.0,
+    "Price": {
+      "Alk Outlet": 5.59
+    }
+  },
+  {
+    "Name": "Rīgas Melnais Upeņu",
+    "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 40,
+    "Alcohol": 30.0,
+    "Price": {
+      "Alk Outlet": 1.69
+    }
+  },
+  {
+    "Name": "Rīgas Melnais Upeņu PET",
+    "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 30.0,
+    "Price": {
+      "Alk Outlet": 11.99
     }
   },
   {
@@ -452,7 +647,28 @@
     "Volume_ml": 1000,
     "Alcohol": 40.0,
     "Price": {
-      "Rimi": 22.29
+      "Alk Outlet": 22.29,
+      "Rimi": 19.99
+    }
+  },
+  {
+    "Name": "Tullamore Dew",
+    "Type": "whiskey",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 40.0,
+    "Price": {
+      "Rimi": 17.49
+    }
+  },
+  {
+    "Name": "Tullamore Dew",
+    "Type": "whiskey",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 40.0,
+    "Price": {
+      "Rimi": 16.79
     }
   },
   {
