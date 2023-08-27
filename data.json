@@ -10,8 +10,8 @@
 		"Alk Outlet",
 		"alkoshop.ee"
 	],
-    "drinks": [
-    	{
+    	"drinks": [
+    		{
 			"name": "Kometa",
 			"type": "wine",
 			"barcode": "4811056002991",
@@ -203,13 +203,54 @@
 		},
 		{
 			"name": "Mateus The Original Rosé",
-			"type": "",
+			"type": "wine",
 			"barcode": "5601012011609",
 			"volume": 1000,
 			"alcohol": 11,
 			"price": {
 				"Veikals": 0.00
 			}
+		},
+		{
+			"name": "Rīgas Melnais",
+			"type": "balsam",
+			"barcode": "4750021537295",
+			"volume": 500,
+			"alcohol": 45,
+			"price": {
+				"Veikals": 0.00
+			}
+		},
+		{
+			"name": "Martini Bianco White Dessert",
+			"type": "wine",
+			"barcode": "5010677925006",
+			"volume": 1000,
+			"alcohol": 15,
+			"price": {
+				"Veikals": 0.00
+			}
+		},
+		{
+			"name": "Beluga Noble",
+			"type": "vodka",
+			"barcode": "4603928000983",
+			"volume": 1000,
+			"alcohol": 40,
+			"price": {
+				"Veikals": 0.00
+			}
+		},
+		{
+			"name": "Martini Asti",
+			"type": "wine",
+			"barcode": "8000570435402",
+			"volume": 750,
+			"alcohol": 7.5,
+			"price": {
+				"Veikals": 0.00
+			}
+
 		}
     ]
 }
