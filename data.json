@@ -5,10 +5,15 @@
 		"Mego",
 		"Elvi",
 		"Lidl",
+		"Citro",
+		"Top!",
 		"Depo",
+		"Spirits & Wines",
+		"Sky & More",
+		"Vynoteka",
 		"Aibe",
 		"Alk Outlet",
-		"alkoshop.ee"
+		"Alkoshop.ee"
 	],
     	"drinks": [
     		{
@@ -18,7 +23,7 @@
 			"volume": 700,
 			"alcohol": 21,
 			"price": {
-				"alkoshop.ee": 3.49
+				"Alkoshop.ee": 3.49
 			}
 		},
 		{
@@ -92,6 +97,26 @@
 			}
 		},
 		{
+			"name": "Mežpils",
+			"type": "beer",
+			"barcode": "4750049002263",
+			"volume": 500,
+			"alcohol": 5.3,
+			"price": {
+				"Rimi": 2.45
+			}
+		},
+		{
+			"name": "Mežpils Tumšais",
+			"type": "beer",
+			"barcode": "",
+			"volume": 500,
+			"alcohol": 5.7,
+			"price": {
+				"Rimi": 2.45
+			}
+		},
+		{
 			"name": "Mežpils Senču",
 			"type": "beer",
 			"barcode": "4750049002287",
@@ -99,6 +124,86 @@
 			"alcohol": 4.5,
 			"price": {
 				"Rimi": 1.85
+			}
+		},
+		{
+			"name": "Mežpils Tradicionālais",
+			"type": "beer",
+			"barcode": "",
+			"volume": 500,
+			"alcohol": 5.1,
+			"price": {
+				"Rimi": 1.85
+			}
+		},
+		{
+			"name": "Mežpils Tradicionālais Nefiltrēts",
+			"type": "beer",
+			"barcode": "",
+			"volume": 500,
+			"alcohol": 4.6,
+			"price": {
+				"Rimi": 1.99
+			}
+		},
+		{
+			"name": "Mežpils Speciālais",
+			"type": "beer",
+			"barcode": "",
+			"volume": 500,
+			"alcohol": 4.6,
+			"price": {
+				"Rimi": 1.99
+			}
+		},
+		{
+			"name": "Mežpils Vasarnieks",
+			"type": "beer",
+			"barcode": "",
+			"volume": 500,
+			"alcohol": 5.4,
+			"price": {
+				"Rimi": 3.29
+			}
+		},
+		{
+			"name": "Mežpils Latviešu Iecienītais",
+			"type": "beer",
+			"barcode": "",
+			"volume": 500,
+			"alcohol": 5.3,
+			"price": {
+				"Rimi": 2.35
+			}
+		},
+		{
+			"name": "Mežpils Rudzu Maizes Eils",
+			"type": "beer",
+			"barcode": "",
+			"volume": 500,
+			"alcohol": 4.8,
+			"price": {
+				"Rimi": 2.19
+			}
+		},
+		{
+			"name": "Mežpils Saules Eils",
+			"type": "beer",
+			"barcode": "",
+			"volume": 500,
+			"alcohol": 5.7,
+			"price": {
+				"Rimi": 2.59
+			}
+		},
+		{
+			"name": "Koskenkorva Original",
+			"type": "vodka",
+			"barcode": "",
+			"volume": 1000,
+			"alcohol": 40,
+			"price": {
+				"Rimi": 18.19
 			}
 		},
 		{
@@ -118,7 +223,17 @@
 			"volume": 500,
 			"alcohol": 40,
 			"price": {
-				"Veikals": 0.00
+				"Rimi": 12.79
+			}
+		},
+		{
+			"name": "Koskenkorva Mojito",
+			"type": "liqour",
+			"barcode": "",
+			"volume": 500,
+			"alcohol": 15,
+			"price": {
+				"Rimi": 8.19
 			}
 		},
 		{
@@ -128,7 +243,17 @@
 			"volume": 500,
 			"alcohol": 35,
 			"price": {
-				"Veikals": 0.00
+				"Rimi": 10.69
+			}
+		},
+		{
+			"name": "Valhalla by Koskenkorva",
+			"type": "balsam",
+			"barcode": "",
+			"volume": 500,
+			"alcohol": 35,
+			"price": {
+				"Rimi": 11.12
 			}
 		},
 		{
@@ -167,16 +292,6 @@
 			"barcode": "4742976013597",
 			"volume": 330,
 			"alcohol": 5.5,
-			"price": {
-				"Veikals": 0.00
-			}
-		},
-		{
-			"name": "Mežpils",
-			"type": "beer",
-			"barcode": "4750049002263",
-			"volume": 500,
-			"alcohol": 5.3,
 			"price": {
 				"Veikals": 0.00
 			}
@@ -251,6 +366,66 @@
 				"Veikals": 0.00
 			}
 
+		},
+		{
+			"name": "Bacardi Spiced",
+			"type": "rum",
+			"barcode": "",
+			"volume": 700,
+			"alcohol": 35,
+			"price": {
+				"Rimi": 13.99
+			}
+		},
+		{
+			"name": "Bacardi Carta Blanca",
+			"type": "rum",
+			"barcode": "",
+			"volume": 700,
+			"alcohol": 37.5,
+			"price": {
+				"Rimi": 19.99
+			}
+		},
+		{
+			"name": "Bacardi Carta Negra",
+			"type": "rum",
+			"barcode": "",
+			"volume": 700,
+			"alcohol": 37.5,
+			"price": {
+				"Rimi": 20.99
+			}
+		},
+		{
+			"name": "Bacardi Spiced",
+			"type": "rum",
+			"barcode": "",
+			"volume": 1000,
+			"alcohol": 35,
+			"price": {
+				"Rimi": 25.79
+			}
+		},
+		{
+			"name": "Bacardi Carta Blanca",
+			"type": "rum",
+			"barcode": "",
+			"volume": 1000,
+			"alcohol": 37.5,
+			"price": {
+				"Rimi": 26.99
+			}
+		},
+		{
+			"name": "Bacardi Carta Negra",
+			"type": "rum",
+			"barcode": "",
+			"volume": 1000,
+			"alcohol": 37.5,
+			"price": {
+				"Rimi": 27.99
+			}
 		}
     ]
 }
