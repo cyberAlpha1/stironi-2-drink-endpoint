@@ -13,4 +13,520 @@
   "Spirits & Wines",
   "Top!",
   "Vynoteka"
-],"drinks":[{"Name":"Bacardi Carta Blanca","Type":"rum","Barcode":"","Volume_ml":1000,"Alcohol":37.5,"Price":{"Rimi":26.99}},{"Name":"Bacardi Carta Blanca","Type":"rum","Barcode":"","Volume_ml":700,"Alcohol":37.5,"Price":{"Rimi":19.99}},{"Name":"Bacardi Carta Negra","Type":"rum","Barcode":"","Volume_ml":1000,"Alcohol":37.5,"Price":{"Rimi":27.99}},{"Name":"Bacardi Carta Negra","Type":"rum","Barcode":"","Volume_ml":700,"Alcohol":37.5,"Price":{"Rimi":20.99}},{"Name":"Bacardi Spiced","Type":"rum","Barcode":"","Volume_ml":1000,"Alcohol":35.0,"Price":{"Rimi":25.79}},{"Name":"Bacardi Spiced","Type":"rum","Barcode":"","Volume_ml":700,"Alcohol":35.0,"Price":{"Rimi":13.99}},{"Name":"Beluga Noble","Type":"vodka","Barcode":"4603928000983","Volume_ml":1000,"Alcohol":40.0,"Price":{}},{"Name":"Bottega Limoncino","Type":"liqour","Barcode":"8005829514006","Volume_ml":500,"Alcohol":30.0,"Price":{"Rimi":19.39,"Alk Outlet":13.99}},{"Name":"Jagermeister","Type":"liqour","Barcode":"4067700002136","Volume_ml":500,"Alcohol":35.0,"Price":{"Rimi":13.19}},{"Name":"Jameson","Type":"whiskey","Barcode":"","Volume_ml":1000,"Alcohol":40.0,"Price":{"Rimi":29.99}},{"Name":"Kometa","Type":"wine","Barcode":"4811056002991","Volume_ml":700,"Alcohol":21.0,"Price":{"Alkoshop.ee":3.49}},{"Name":"Koskenkorva Minttu","Type":"liqour","Barcode":"6412700311203","Volume_ml":500,"Alcohol":35.0,"Price":{"Rimi":10.69}},{"Name":"Koskenkorva Mojito","Type":"liqour","Barcode":"","Volume_ml":500,"Alcohol":15.0,"Price":{"Rimi":8.19}},{"Name":"Koskenkorva Original","Type":"vodka","Barcode":"","Volume_ml":1000,"Alcohol":40.0,"Price":{"Rimi":18.19}},{"Name":"Koskenkorva Original","Type":"vodka","Barcode":"6412700148007","Volume_ml":700,"Alcohol":40.0,"Price":{"Rimi":17.05}},{"Name":"Koskenkorva Original","Type":"vodka","Barcode":"6412700014203","Volume_ml":500,"Alcohol":40.0,"Price":{"Rimi":12.79}},{"Name":"Lāčplēsis Dzintara","Type":"beer","Barcode":"4750132007533","Volume_ml":500,"Alcohol":4.8,"Price":{}},{"Name":"Lode Black Currant","Type":"cocktail","Barcode":"","Volume_ml":500,"Alcohol":14.0,"Price":{"Rimi":2.39}},{"Name":"Lode Black Original & Grapefruit","Type":"cocktail","Barcode":"","Volume_ml":500,"Alcohol":14.0,"Price":{"Rimi":2.39}},{"Name":"Lode Original & Cherry","Type":"cocktail","Barcode":"","Volume_ml":500,"Alcohol":14.0,"Price":{"Rimi":2.39}},{"Name":"Lode Original & Lime","Type":"cocktail","Barcode":"","Volume_ml":500,"Alcohol":14.0,"Price":{"Rimi":2.39}},{"Name":"Martini Asti","Type":"wine","Barcode":"8000570435402","Volume_ml":750,"Alcohol":7.5,"Price":{"Rimi":7.99}},{"Name":"Martini Bianco White Dessert","Type":"wine","Barcode":"5010677925006","Volume_ml":1000,"Alcohol":15.0,"Price":{}},{"Name":"Mateus The Original Rosé","Type":"wine","Barcode":"5601012011609","Volume_ml":1000,"Alcohol":11.0,"Price":{}},{"Name":"Mežpils","Type":"beer","Barcode":"4750049002263","Volume_ml":500,"Alcohol":5.3,"Price":{"Rimi":2.45}},{"Name":"Mežpils Latviešu Iecienītais","Type":"beer","Barcode":"","Volume_ml":500,"Alcohol":5.3,"Price":{"Rimi":2.35}},{"Name":"Mežpils Rudzu Maizes Eils","Type":"beer","Barcode":"","Volume_ml":500,"Alcohol":4.8,"Price":{"Rimi":2.19}},{"Name":"Mežpils Saules Eils","Type":"beer","Barcode":"","Volume_ml":500,"Alcohol":5.7,"Price":{"Rimi":2.59}},{"Name":"Mežpils Senču","Type":"beer","Barcode":"4750049002287","Volume_ml":500,"Alcohol":4.5,"Price":{"Rimi":1.85}},{"Name":"Mežpils Speciālais","Type":"beer","Barcode":"","Volume_ml":500,"Alcohol":4.6,"Price":{"Rimi":1.99}},{"Name":"Mežpils Tradicionālais","Type":"beer","Barcode":"","Volume_ml":500,"Alcohol":5.1,"Price":{"Rimi":1.85}},{"Name":"Mežpils Tradicionālais Nefiltrēts","Type":"beer","Barcode":"","Volume_ml":500,"Alcohol":4.6,"Price":{"Rimi":1.99}},{"Name":"Mežpils Tumšais","Type":"beer","Barcode":"","Volume_ml":500,"Alcohol":5.7,"Price":{"Rimi":2.45}},{"Name":"Mežpils Vasarnieks","Type":"beer","Barcode":"","Volume_ml":500,"Alcohol":5.4,"Price":{"Rimi":3.29}},{"Name":"Moka","Type":"liqour","Barcode":"4750021310959","Volume_ml":200,"Alcohol":30.0,"Price":{}},{"Name":"Põhjala Kosmos Ne Ipa","Type":"beer","Barcode":"4742976013597","Volume_ml":330,"Alcohol":5.5,"Price":{}},{"Name":"Rīgas Melnais","Type":"balsam","Barcode":"4750021537295","Volume_ml":500,"Alcohol":45.0,"Price":{"Rimi":11.09}},{"Name":"Tanker Sauna Session","Type":"beer","Barcode":"4744109019407","Volume_ml":440,"Alcohol":4.7,"Price":{}},{"Name":"Tullamore Dew","Type":"whiskey","Barcode":"","Volume_ml":1000,"Alcohol":40.0,"Price":{"Rimi":22.29}},{"Name":"Valhalla by Koskenkorva","Type":"balsam","Barcode":"","Volume_ml":500,"Alcohol":35.0,"Price":{"Rimi":11.12}},{"Name":"Valmiermuiža Brīvība","Type":"beer","Barcode":"4751012093172","Volume_ml":330,"Alcohol":5.8,"Price":{}},{"Name":"Vinitto Blanco","Type":"wine","Barcode":"4750142001088","Volume_ml":275,"Alcohol":5.5,"Price":{}},{"Name":"Walter Gaišais","Type":"beer","Barcode":"","Volume_ml":500,"Alcohol":4.2,"Price":{"Rimi":0.69}},{"Name":"Walter Oriģinālais","Type":"beer","Barcode":"","Volume_ml":1000,"Alcohol":4.2,"Price":{"Rimi":1.09}},{"Name":"Walter Stiprais","Type":"beer","Barcode":"","Volume_ml":1000,"Alcohol":5.8,"Price":{"Rimi":1.39}},{"Name":"Walter Stiprais","Type":"beer","Barcode":"","Volume_ml":500,"Alcohol":7.0,"Price":{"Rimi":0.89}},{"Name":"Xuxu Strawberry","Type":"cocktail","Barcode":"4000269001356","Volume_ml":1000,"Alcohol":15.0,"Price":{}}]}
+],"drinks":[
+  {
+    "Name": "Bacardi Carta Blanca",
+    "Type": "rum",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 37.5,
+    "Price": {
+      "Rimi": 26.99
+    }
+  },
+  {
+    "Name": "Bacardi Carta Blanca",
+    "Type": "rum",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 37.5,
+    "Price": {
+      "Rimi": 19.99
+    }
+  },
+  {
+    "Name": "Bacardi Carta Negra",
+    "Type": "rum",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 37.5,
+    "Price": {
+      "Rimi": 27.99
+    }
+  },
+  {
+    "Name": "Bacardi Carta Negra",
+    "Type": "rum",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 37.5,
+    "Price": {
+      "Rimi": 20.99
+    }
+  },
+  {
+    "Name": "Bacardi Spiced",
+    "Type": "rum",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 35.0,
+    "Price": {
+      "Rimi": 25.79
+    }
+  },
+  {
+    "Name": "Bacardi Spiced",
+    "Type": "rum",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 35.0,
+    "Price": {
+      "Rimi": 13.99
+    }
+  },
+  {
+    "Name": "Beluga Noble",
+    "Type": "vodka",
+    "Barcode": "4603928000983",
+    "Volume_ml": 1000,
+    "Alcohol": 40.0,
+    "Price": {}
+  },
+  {
+    "Name": "Bottega Limoncino",
+    "Type": "liqour",
+    "Barcode": "8005829514006",
+    "Volume_ml": 500,
+    "Alcohol": 30.0,
+    "Price": {
+      "Alk Outlet": 13.99,
+      "Rimi": 19.39
+    }
+  },
+  {
+    "Name": "Jagermeister",
+    "Type": "liqour",
+    "Barcode": "4067700002136",
+    "Volume_ml": 500,
+    "Alcohol": 35.0,
+    "Price": {
+      "Rimi": 13.19
+    }
+  },
+  {
+    "Name": "Jameson",
+    "Type": "whiskey",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 40.0,
+    "Price": {
+      "Rimi": 29.99
+    }
+  },
+  {
+    "Name": "Kometa",
+    "Type": "wine",
+    "Barcode": "4811056002991",
+    "Volume_ml": 700,
+    "Alcohol": 21.0,
+    "Price": {
+      "Alkoshop.ee": 3.49
+    }
+  },
+  {
+    "Name": "Koskenkorva Minttu",
+    "Type": "liqour",
+    "Barcode": "6412700311203",
+    "Volume_ml": 500,
+    "Alcohol": 35.0,
+    "Price": {
+      "Rimi": 10.69
+    }
+  },
+  {
+    "Name": "Koskenkorva Mojito",
+    "Type": "liqour",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 15.0,
+    "Price": {
+      "Rimi": 8.19
+    }
+  },
+  {
+    "Name": "Koskenkorva Original",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 40.0,
+    "Price": {
+      "Rimi": 18.19
+    }
+  },
+  {
+    "Name": "Koskenkorva Original",
+    "Type": "vodka",
+    "Barcode": "6412700148007",
+    "Volume_ml": 700,
+    "Alcohol": 40.0,
+    "Price": {
+      "Rimi": 17.05
+    }
+  },
+  {
+    "Name": "Koskenkorva Original",
+    "Type": "vodka",
+    "Barcode": "6412700014203",
+    "Volume_ml": 500,
+    "Alcohol": 40.0,
+    "Price": {
+      "Rimi": 12.79
+    }
+  },
+  {
+    "Name": "Lāčplēsis Dzintara",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 5.0,
+    "Price": {
+      "Rimi": 2.09
+    }
+  },
+  {
+    "Name": "Lāčplēsis Dzintara",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 568,
+    "Alcohol": 4.8,
+    "Price": {
+      "Rimi": 1.49
+    }
+  },
+  {
+    "Name": "Lāčplēsis Dzintara",
+    "Type": "beer",
+    "Barcode": "4750132007533",
+    "Volume_ml": 500,
+    "Alcohol": 4.8,
+    "Price": {
+      "Alk Outlet": 1.25,
+      "Rimi": 1.59
+    }
+  },
+  {
+    "Name": "Lāčplēsis Gaišais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 5.0,
+    "Price": {
+      "Rimi": 2.09
+    }
+  },
+  {
+    "Name": "Lāčplēsis Gaišais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 568,
+    "Alcohol": 5.0,
+    "Price": {
+      "Rimi": 1.49
+    }
+  },
+  {
+    "Name": "Lāčplēsis Gaišais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.0,
+    "Price": {
+      "Alk Outlet": 1.25,
+      "Rimi": 1.45
+    }
+  },
+  {
+    "Name": "Lāčplēsis Izturēts",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 568,
+    "Alcohol": 5.1,
+    "Price": {
+      "Rimi": 1.69
+    }
+  },
+  {
+    "Name": "Lode Black Currant",
+    "Type": "cocktail",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 14.0,
+    "Price": {
+      "Rimi": 2.39
+    }
+  },
+  {
+    "Name": "Lode Black Original & Grapefruit",
+    "Type": "cocktail",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 14.0,
+    "Price": {
+      "Rimi": 2.39
+    }
+  },
+  {
+    "Name": "Lode Original & Cherry",
+    "Type": "cocktail",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 14.0,
+    "Price": {
+      "Rimi": 2.39
+    }
+  },
+  {
+    "Name": "Lode Original & Lime",
+    "Type": "cocktail",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 14.0,
+    "Price": {
+      "Rimi": 2.39
+    }
+  },
+  {
+    "Name": "Martini Asti",
+    "Type": "wine",
+    "Barcode": "8000570435402",
+    "Volume_ml": 750,
+    "Alcohol": 7.5,
+    "Price": {
+      "Rimi": 7.99
+    }
+  },
+  {
+    "Name": "Martini Bianco White Dessert",
+    "Type": "wine",
+    "Barcode": "5010677925006",
+    "Volume_ml": 1000,
+    "Alcohol": 15.0,
+    "Price": {}
+  },
+  {
+    "Name": "Mateus The Original Rosé",
+    "Type": "wine",
+    "Barcode": "5601012011609",
+    "Volume_ml": 1000,
+    "Alcohol": 11.0,
+    "Price": {}
+  },
+  {
+    "Name": "Mežpils",
+    "Type": "beer",
+    "Barcode": "4750049002263",
+    "Volume_ml": 500,
+    "Alcohol": 5.3,
+    "Price": {
+      "Rimi": 2.45
+    }
+  },
+  {
+    "Name": "Mežpils Latviešu Iecienītais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.3,
+    "Price": {
+      "Rimi": 2.35
+    }
+  },
+  {
+    "Name": "Mežpils Rudzu Maizes Eils",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 4.8,
+    "Price": {
+      "Rimi": 2.19
+    }
+  },
+  {
+    "Name": "Mežpils Saules Eils",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.7,
+    "Price": {
+      "Rimi": 2.59
+    }
+  },
+  {
+    "Name": "Mežpils Senču",
+    "Type": "beer",
+    "Barcode": "4750049002287",
+    "Volume_ml": 500,
+    "Alcohol": 4.5,
+    "Price": {
+      "Rimi": 1.85
+    }
+  },
+  {
+    "Name": "Mežpils Speciālais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 4.6,
+    "Price": {
+      "Rimi": 1.99
+    }
+  },
+  {
+    "Name": "Mežpils Tradicionālais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.1,
+    "Price": {
+      "Rimi": 1.85
+    }
+  },
+  {
+    "Name": "Mežpils Tradicionālais Nefiltrēts",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 4.6,
+    "Price": {
+      "Rimi": 1.99
+    }
+  },
+  {
+    "Name": "Mežpils Tumšais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.7,
+    "Price": {
+      "Rimi": 2.45
+    }
+  },
+  {
+    "Name": "Mežpils Vasarnieks",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.4,
+    "Price": {
+      "Rimi": 3.29
+    }
+  },
+  {
+    "Name": "Moka",
+    "Type": "liqour",
+    "Barcode": "4750021310959",
+    "Volume_ml": 200,
+    "Alcohol": 30.0,
+    "Price": {}
+  },
+  {
+    "Name": "Põhjala Kosmos Ne Ipa",
+    "Type": "beer",
+    "Barcode": "4742976013597",
+    "Volume_ml": 330,
+    "Alcohol": 5.5,
+    "Price": {}
+  },
+  {
+    "Name": "Rīgas Melnais",
+    "Type": "balsam",
+    "Barcode": "4750021537295",
+    "Volume_ml": 500,
+    "Alcohol": 45.0,
+    "Price": {
+      "Rimi": 11.09
+    }
+  },
+  {
+    "Name": "Tanker Sauna Session",
+    "Type": "beer",
+    "Barcode": "4744109019407",
+    "Volume_ml": 440,
+    "Alcohol": 4.7,
+    "Price": {}
+  },
+  {
+    "Name": "Tullamore Dew",
+    "Type": "whiskey",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 40.0,
+    "Price": {
+      "Rimi": 22.29
+    }
+  },
+  {
+    "Name": "Valhalla by Koskenkorva",
+    "Type": "balsam",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 35.0,
+    "Price": {
+      "Rimi": 11.12
+    }
+  },
+  {
+    "Name": "Valmiermuiža Brīvība",
+    "Type": "beer",
+    "Barcode": "4751012093172",
+    "Volume_ml": 330,
+    "Alcohol": 5.8,
+    "Price": {}
+  },
+  {
+    "Name": "Vinitto Blanco",
+    "Type": "wine",
+    "Barcode": "4750142001088",
+    "Volume_ml": 275,
+    "Alcohol": 5.5,
+    "Price": {}
+  },
+  {
+    "Name": "Walter Gaišais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 4.2,
+    "Price": {
+      "Rimi": 0.69
+    }
+  },
+  {
+    "Name": "Walter Oriģinālais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 4.2,
+    "Price": {
+      "Rimi": 1.09
+    }
+  },
+  {
+    "Name": "Walter Stiprais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 5.8,
+    "Price": {
+      "Rimi": 1.39
+    }
+  },
+  {
+    "Name": "Walter Stiprais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 7.0,
+    "Price": {
+      "Rimi": 0.89
+    }
+  },
+  {
+    "Name": "Xuxu Strawberry",
+    "Type": "cocktail",
+    "Barcode": "4000269001356",
+    "Volume_ml": 1000,
+    "Alcohol": 15.0,
+    "Price": {}
+  }
+]}
