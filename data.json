@@ -137,6 +137,14 @@
     }
   },
   {
+    "Name": "Aperol Italian Bitters",
+    "Type": "",
+    "Barcode": "8002230000302",
+    "Volume_ml": 0,
+    "Alcohol": 0.0,
+    "Price": {}
+  },
+  {
     "Name": "Apinītis Pilzenes",
     "Type": "beer",
     "Barcode": "",
@@ -260,6 +268,14 @@
     }
   },
   {
+    "Name": "Bacardi Mojito",
+    "Type": "cocktail",
+    "Barcode": "7610113000199",
+    "Volume_ml": 0,
+    "Alcohol": 0.0,
+    "Price": {}
+  },
+  {
     "Name": "Bacardi Spiced",
     "Type": "rum",
     "Barcode": "",
@@ -289,6 +305,16 @@
     "Price": {}
   },
   {
+    "Name": "Bistrot Chic Bordeaux Rouge",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 3000,
+    "Alcohol": 13.0,
+    "Price": {
+      "Spirits & Wine": 17.99
+    }
+  },
+  {
     "Name": "Bocmanis Dzintarjūras",
     "Type": "beer",
     "Barcode": "",
@@ -299,6 +325,14 @@
     }
   },
   {
+    "Name": "Bottega Crema Di Lampone",
+    "Type": "liqour",
+    "Barcode": "8005829780968",
+    "Volume_ml": 500,
+    "Alcohol": 15.0,
+    "Price": {}
+  },
+  {
     "Name": "Bottega Limoncino",
     "Type": "liqour",
     "Barcode": "8005829514006",
@@ -307,6 +341,16 @@
     "Price": {
       "Alk Outlet": 13.99,
       "Rimi": 19.39
+    }
+  },
+  {
+    "Name": "CampoBello Red Tempranillo",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 3000,
+    "Alcohol": 13.0,
+    "Price": {
+      "Spirits & Wine": 17.99
     }
   },
   {
@@ -445,6 +489,26 @@
     }
   },
   {
+    "Name": "Don Simon Sangria",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 7.0,
+    "Price": {
+      "Spirits & Wine": 5.99
+    }
+  },
+  {
+    "Name": "Dreamer Sweet Red",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 10.5,
+    "Price": {
+      "Spirits & Wine": 4.59
+    }
+  },
+  {
     "Name": "Finlandia",
     "Type": "vodka",
     "Barcode": "",
@@ -475,6 +539,16 @@
     }
   },
   {
+    "Name": "Game of Africa Cinsault - Pinotage",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 3000,
+    "Alcohol": 14.0,
+    "Price": {
+      "Spirits & Wine": 15.95
+    }
+  },
+  {
     "Name": "Hartwall Original Long Drink",
     "Type": "cocktail",
     "Barcode": "",
@@ -492,6 +566,16 @@
     "Alcohol": 5.0,
     "Price": {
       "Rimi": 1.59
+    }
+  },
+  {
+    "Name": "Inycon Appasimento Rosso Organic",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 2000,
+    "Alcohol": 13.5,
+    "Price": {
+      "Spirits & Wine": 14.99
     }
   },
   {
@@ -566,6 +650,16 @@
     "Alcohol": 41.0,
     "Price": {
       "Alk Outlet": 159.99
+    }
+  },
+  {
+    "Name": "Just Jump Semi",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 3000,
+    "Alcohol": 11.0,
+    "Price": {
+      "Spirits & Wine": 14.59
     }
   },
   {
@@ -734,6 +828,14 @@
     "Price": {
       "Maxima/Barbora": 8.19
     }
+  },
+  {
+    "Name": "La Cantina Pizzolato",
+    "Type": "wine",
+    "Barcode": "8022836005464",
+    "Volume_ml": 750,
+    "Alcohol": 11.0,
+    "Price": {}
   },
   {
     "Name": "Latido De Sara Garnacha",
@@ -1205,6 +1307,16 @@
     "Price": {}
   },
   {
+    "Name": "Prego Grande Premio",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 3000,
+    "Alcohol": 12.5,
+    "Price": {
+      "Spirits & Wine": 19.99
+    }
+  },
+  {
     "Name": "Raiskumietis Gaišais",
     "Type": "beer",
     "Barcode": "",
@@ -1235,6 +1347,14 @@
       "Rimi": 4.59,
       "Spirits & Wine": 4.05
     }
+  },
+  {
+    "Name": "Renaissance Grande Armee",
+    "Type": "brandy",
+    "Barcode": "4770053234054",
+    "Volume_ml": 500,
+    "Alcohol": 36.0,
+    "Price": {}
   },
   {
     "Name": "Rīgas Melnais",
@@ -1751,6 +1871,16 @@
     }
   },
   {
+    "Name": "Vent Frais Rouge",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 3000,
+    "Alcohol": 11.0,
+    "Price": {
+      "Spirits & Wine": 16.99
+    }
+  },
+  {
     "Name": "Vina Amaia Cabernet Sauvignon",
     "Type": "wine",
     "Barcode": "",
@@ -1806,6 +1936,16 @@
     "Alcohol": 7.0,
     "Price": {
       "Rimi": 0.89
+    }
+  },
+  {
+    "Name": "Welmoed Shiraz Pinotage",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 1500,
+    "Alcohol": 14.0,
+    "Price": {
+      "Spirits & Wine": 8.99
     }
   },
   {
