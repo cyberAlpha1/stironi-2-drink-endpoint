@@ -10,10 +10,60 @@
   "Mego",
   "Rimi",
   "Sky & More",
-  "Spirits & Wines",
+  "Spirits & Wine",
   "Top!",
   "Vynoteka"
 ],"drinks":[
+  {
+    "Name": "Absolut",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 40.0,
+    "Price": {
+      "Alk Outlet": 19.99
+    }
+  },
+  {
+    "Name": "Absolut",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 40.0,
+    "Price": {
+      "Alk Outlet": 16.99
+    }
+  },
+  {
+    "Name": "Absolut Citron",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 40.0,
+    "Price": {
+      "Alk Outlet": 24.99
+    }
+  },
+  {
+    "Name": "Absolut Lime",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 40.0,
+    "Price": {
+      "Alk Outlet": 24.99
+    }
+  },
+  {
+    "Name": "Absolut Watermelon",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 38.0,
+    "Price": {
+      "Alk Outlet": 24.99
+    }
+  },
   {
     "Name": "Aldaris Gaišais",
     "Type": "beer",
@@ -82,6 +132,56 @@
     "Alcohol": 4.2,
     "Price": {
       "Rimi": 1.19
+    }
+  },
+  {
+    "Name": "Arsenič",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 40.0,
+    "Price": {
+      "Rimi": 18.49
+    }
+  },
+  {
+    "Name": "Arsenič",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 40.0,
+    "Price": {
+      "Rimi": 12.99
+    }
+  },
+  {
+    "Name": "Arsenič",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 40.0,
+    "Price": {
+      "Rimi": 10.19
+    }
+  },
+  {
+    "Name": "Arsenič",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 350,
+    "Alcohol": 40.0,
+    "Price": {
+      "Rimi": 7.29
+    }
+  },
+  {
+    "Name": "Arsenič",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 200,
+    "Alcohol": 40.0,
+    "Price": {
+      "Rimi": 3.49
     }
   },
   {
@@ -183,7 +283,9 @@
     "Volume_ml": 1000,
     "Alcohol": 5.0,
     "Price": {
-      "Rimi": 3.15
+      "Alk Outlet": 2.99,
+      "Rimi": 3.15,
+      "Spirits & Wine": 2.89
     }
   },
   {
@@ -193,7 +295,30 @@
     "Volume_ml": 1000,
     "Alcohol": 5.0,
     "Price": {
-      "Rimi": 3.15
+      "Alk Outlet": 2.99,
+      "Rimi": 3.15,
+      "Spirits & Wine": 2.89
+    }
+  },
+  {
+    "Name": "Cēsu Džons Greipfrūts",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.0,
+    "Price": {
+      "Rimi": 1.69
+    }
+  },
+  {
+    "Name": "Cēsu Džons Pina Colada",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.0,
+    "Price": {
+      "Alk Outlet": 1.69,
+      "Rimi": 1.69
     }
   },
   {
@@ -257,6 +382,16 @@
     }
   },
   {
+    "Name": "Hartwall Original Long Drink",
+    "Type": "cocktail",
+    "Barcode": "",
+    "Volume_ml": 330,
+    "Alcohol": 5.5,
+    "Price": {
+      "Spirits & Wine": 1.79
+    }
+  },
+  {
     "Name": "Jack Daniel's",
     "Type": "whiskey",
     "Barcode": "",
@@ -265,7 +400,7 @@
     "Price": {
       "Alk Outlet": 29.99,
       "Rimi": 34.49,
-      "Spirits & Wines": 26.99
+      "Spirits & Wine": 26.99
     }
   },
   {
@@ -277,7 +412,7 @@
     "Price": {
       "Alk Outlet": 23.99,
       "Rimi": 25.99,
-      "Spirits & Wines": 21.89
+      "Spirits & Wine": 21.89
     }
   },
   {
@@ -357,7 +492,8 @@
     "Volume_ml": 500,
     "Alcohol": 15.0,
     "Price": {
-      "Rimi": 8.19
+      "Rimi": 8.19,
+      "Spirits & Wine": 7.69
     }
   },
   {
@@ -409,6 +545,26 @@
     "Alcohol": 37.5,
     "Price": {
       "Alk Outlet": 19.99
+    }
+  },
+  {
+    "Name": "Latido De Sara Garnacha",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 12.5,
+    "Price": {
+      "Alk Outlet": 8.99
+    }
+  },
+  {
+    "Name": "Latvijas Oriģinālais",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 38.0,
+    "Price": {
+      "Alk Outlet": 9.99
     }
   },
   {
@@ -563,7 +719,7 @@
     "Price": {
       "Alk Outlet": 19.99,
       "Rimi": 18.39,
-      "Spirits & Wines": 15.29
+      "Spirits & Wine": 15.29
     }
   },
   {
@@ -593,7 +749,7 @@
     "Volume_ml": 700,
     "Alcohol": 40.0,
     "Price": {
-      "Spirits & Wines": 5599.99
+      "Spirits & Wine": 5599.99
     }
   },
   {
@@ -739,7 +895,7 @@
     "Volume_ml": 1000,
     "Alcohol": 30.0,
     "Price": {
-      "Spirits & Wines": 14.79
+      "Spirits & Wine": 14.79
     }
   },
   {
@@ -749,7 +905,7 @@
     "Volume_ml": 500,
     "Alcohol": 30.0,
     "Price": {
-      "Spirits & Wines": 7.49
+      "Spirits & Wine": 7.49
     }
   },
   {
@@ -796,7 +952,7 @@
     "Alcohol": 5.6,
     "Price": {
       "Rimi": 4.49,
-      "Spirits & Wines": 3.95
+      "Spirits & Wine": 3.95
     }
   },
   {
@@ -806,7 +962,7 @@
     "Volume_ml": 500,
     "Alcohol": 5.6,
     "Price": {
-      "Spirits & Wines": 2.45
+      "Spirits & Wine": 2.45
     }
   },
   {
@@ -817,7 +973,7 @@
     "Alcohol": 5.6,
     "Price": {
       "Rimi": 4.59,
-      "Spirits & Wines": 4.05
+      "Spirits & Wine": 4.05
     }
   },
   {
@@ -992,12 +1148,153 @@
     }
   },
   {
+    "Name": "Shake Club Strawberry - Apple",
+    "Type": "cocktail",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 14.5,
+    "Price": {
+      "Spirits & Wine": 2.25
+    }
+  },
+  {
+    "Name": "Somersby Apple",
+    "Type": "cider",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 4.5,
+    "Price": {
+      "Alk Outlet": 3.49,
+      "Spirits & Wine": 3.29
+    }
+  },
+  {
+    "Name": "Somersby Apple",
+    "Type": "cider",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 4.5,
+    "Price": {
+      "Alk Outlet": 2.35,
+      "Rimi": 2.15,
+      "Spirits & Wine": 2.19
+    }
+  },
+  {
+    "Name": "Somersby Apple",
+    "Type": "cider",
+    "Barcode": "",
+    "Volume_ml": 330,
+    "Alcohol": 4.5,
+    "Price": {
+      "Alk Outlet": 1.95,
+      "Rimi": 1.99,
+      "Spirits & Wine": 1.99
+    }
+  },
+  {
+    "Name": "Somersby Pear",
+    "Type": "cider",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 4.5,
+    "Price": {
+      "Alk Outlet": 3.49,
+      "Rimi": 3.29,
+      "Spirits & Wine": 3.29
+    }
+  },
+  {
+    "Name": "Somersby Pear",
+    "Type": "cider",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 4.5,
+    "Price": {
+      "Alk Outlet": 2.35,
+      "Rimi": 2.15,
+      "Spirits & Wine": 2.19
+    }
+  },
+  {
+    "Name": "Somersby Pear",
+    "Type": "cider",
+    "Barcode": "",
+    "Volume_ml": 330,
+    "Alcohol": 4.5,
+    "Price": {
+      "Alk Outlet": 1.95,
+      "Rimi": 1.99,
+      "Spirits & Wine": 1.95
+    }
+  },
+  {
     "Name": "Tanker Sauna Session",
     "Type": "beer",
     "Barcode": "4744109019407",
     "Volume_ml": 440,
     "Alcohol": 4.7,
     "Price": {}
+  },
+  {
+    "Name": "Tērvetes",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.3,
+    "Price": {
+      "Rimi": 1.85
+    }
+  },
+  {
+    "Name": "Tērvetes Nefiltrētais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.3,
+    "Price": {
+      "Rimi": 1.79
+    }
+  },
+  {
+    "Name": "Tērvetes Oriģinālais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.4,
+    "Price": {
+      "Rimi": 1.85
+    }
+  },
+  {
+    "Name": "Tērvetes Senču",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 4.5,
+    "Price": {
+      "Rimi": 1.45
+    }
+  },
+  {
+    "Name": "Tērvetes Tumšais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.4,
+    "Price": {
+      "Rimi": 2.09
+    }
+  },
+  {
+    "Name": "Trapiche Malbec",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 750,
+    "Alcohol": 12.5,
+    "Price": {
+      "Spirits & Wine": 6.99
+    }
   },
   {
     "Name": "Tuborg",
@@ -1099,6 +1396,68 @@
     "Volume_ml": 330,
     "Alcohol": 5.8,
     "Price": {}
+  },
+  {
+    "Name": "Valmiermuižas Gaišais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.2,
+    "Price": {
+      "Rimi": 1.95
+    }
+  },
+  {
+    "Name": "Valmiermuižas Namejs Gaišais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.0,
+    "Price": {
+      "Rimi": 2.75
+    }
+  },
+  {
+    "Name": "Valmiermuižas Tumšais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 5.8,
+    "Price": {
+      "Rimi": 2.79
+    }
+  },
+  {
+    "Name": "Valmiermuižas Vasaras",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 4.6,
+    "Price": {
+      "Rimi": 2.69
+    }
+  },
+  {
+    "Name": "Vana Tallinn",
+    "Type": "liqour",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 40.0,
+    "Price": {
+      "Alk Outlet": 18.99,
+      "Spirits & Wine": 21.59
+    }
+  },
+  {
+    "Name": "Vana Tallinn",
+    "Type": "liqour",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 40.0,
+    "Price": {
+      "Alk Outlet": 11.25,
+      "Spirits & Wine": 13.39
+    }
   },
   {
     "Name": "Vinitto Blanco",
