@@ -1,17 +1,9 @@
 {"shops":[
-  "Aibe",
   "Alk Outlet",
   "Alkoshop.ee",
-  "Citro",
-  "Depo",
-  "Elvi",
-  "Lidl",
-  "Maxima",
-  "Mego",
+  "Maxima/Barbora",
   "Rimi",
-  "Sky & More",
   "Spirits & Wine",
-  "Top!",
   "Vynoteka"
 ],"drinks":[
   {
@@ -132,6 +124,47 @@
     "Alcohol": 4.2,
     "Price": {
       "Rimi": 1.19
+    }
+  },
+  {
+    "Name": "Andes Cabernet Sauvignon",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 3000,
+    "Alcohol": 13.0,
+    "Price": {
+      "Spirits & Wine": 18.49
+    }
+  },
+  {
+    "Name": "Apinītis Pilzenes",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 4.2,
+    "Price": {
+      "Maxima/Barbora": 2.09
+    }
+  },
+  {
+    "Name": "Apinītis Stiprais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 5.8,
+    "Price": {
+      "Maxima/Barbora": 2.15,
+      "Rimi": 2.15
+    }
+  },
+  {
+    "Name": "Apinītis Tumšais",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 5.8,
+    "Price": {
+      "Maxima/Barbora": 2.15
     }
   },
   {
@@ -256,6 +289,16 @@
     "Price": {}
   },
   {
+    "Name": "Bocmanis Dzintarjūras",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 5.8,
+    "Price": {
+      "Maxima/Barbora": 1.83
+    }
+  },
+  {
     "Name": "Bottega Limoncino",
     "Type": "liqour",
     "Barcode": "8005829514006",
@@ -264,6 +307,16 @@
     "Price": {
       "Alk Outlet": 13.99,
       "Rimi": 19.39
+    }
+  },
+  {
+    "Name": "Carlsberg",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 568,
+    "Alcohol": 5.0,
+    "Price": {
+      "Rimi": 1.75
     }
   },
   {
@@ -382,6 +435,46 @@
     }
   },
   {
+    "Name": "Detunda Cabernet Sauvignon Tempranillo",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 3000,
+    "Alcohol": 12.5,
+    "Price": {
+      "Spirits & Wine": 18.49
+    }
+  },
+  {
+    "Name": "Finlandia",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 40.0,
+    "Price": {
+      "Rimi": 26.19
+    }
+  },
+  {
+    "Name": "Finlandia",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 40.0,
+    "Price": {
+      "Rimi": 13.99
+    }
+  },
+  {
+    "Name": "Finlandia",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 40.0,
+    "Price": {
+      "Rimi": 17.89
+    }
+  },
+  {
     "Name": "Hartwall Original Long Drink",
     "Type": "cocktail",
     "Barcode": "",
@@ -389,6 +482,26 @@
     "Alcohol": 5.5,
     "Price": {
       "Spirits & Wine": 1.79
+    }
+  },
+  {
+    "Name": "Heineken",
+    "Type": "beer",
+    "Barcode": "",
+    "Volume_ml": 330,
+    "Alcohol": 5.0,
+    "Price": {
+      "Rimi": 1.59
+    }
+  },
+  {
+    "Name": "Its Rose Time",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 750,
+    "Alcohol": 12.0,
+    "Price": {
+      "Spirits & Wine": 5.49
     }
   },
   {
@@ -446,6 +559,16 @@
     }
   },
   {
+    "Name": "Jean Filliox SO Elegantissime XO",
+    "Type": "cognac",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 41.0,
+    "Price": {
+      "Alk Outlet": 159.99
+    }
+  },
+  {
     "Name": "Kometa",
     "Type": "wine",
     "Barcode": "4811056002991",
@@ -453,6 +576,16 @@
     "Alcohol": 21.0,
     "Price": {
       "Alkoshop.ee": 3.49
+    }
+  },
+  {
+    "Name": "Koskenkorva Blueberry",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 37.5,
+    "Price": {
+      "Rimi": 15.89
     }
   },
   {
@@ -466,13 +599,45 @@
     }
   },
   {
+    "Name": "Koskenkorva Collin's",
+    "Type": "cocktail",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 15.0,
+    "Price": {
+      "Spirits & Wine": 7.69
+    }
+  },
+  {
     "Name": "Koskenkorva Forest Berries",
     "Type": "liqour",
     "Barcode": "",
     "Volume_ml": 500,
     "Alcohol": 21.0,
     "Price": {
-      "Alk Outlet": 9.99
+      "Alk Outlet": 9.99,
+      "Maxima/Barbora": 9.28
+    }
+  },
+  {
+    "Name": "Koskenkorva Lemon Lime",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 37.5,
+    "Price": {
+      "Spirits & Wine": 23.99
+    }
+  },
+  {
+    "Name": "Koskenkorva Lemon Lime",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 37.5,
+    "Price": {
+      "Rimi": 15.89,
+      "Spirits & Wine": 18.59
     }
   },
   {
@@ -492,6 +657,7 @@
     "Volume_ml": 500,
     "Alcohol": 15.0,
     "Price": {
+      "Maxima/Barbora": 9.91,
       "Rimi": 8.19,
       "Spirits & Wine": 7.69
     }
@@ -504,7 +670,8 @@
     "Alcohol": 40.0,
     "Price": {
       "Alk Outlet": 19.99,
-      "Rimi": 18.19
+      "Rimi": 18.19,
+      "Spirits & Wine": 23.99
     }
   },
   {
@@ -514,7 +681,8 @@
     "Volume_ml": 700,
     "Alcohol": 40.0,
     "Price": {
-      "Rimi": 17.05
+      "Rimi": 17.05,
+      "Spirits & Wine": 18.59
     }
   },
   {
@@ -545,6 +713,26 @@
     "Alcohol": 37.5,
     "Price": {
       "Alk Outlet": 19.99
+    }
+  },
+  {
+    "Name": "Koskenkorva Salmiakki",
+    "Type": "liqour",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 30.0,
+    "Price": {
+      "Spirits & Wine": 13.99
+    }
+  },
+  {
+    "Name": "Koskenkorva Strawberry Margarita",
+    "Type": "liqour",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 15.0,
+    "Price": {
+      "Maxima/Barbora": 8.19
     }
   },
   {
@@ -670,6 +858,16 @@
     }
   },
   {
+    "Name": "LB 69 Latvijas Stiprais",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 69.0,
+    "Price": {
+      "Spirits & Wine": 14.59
+    }
+  },
+  {
     "Name": "Lode Black Currant",
     "Type": "cocktail",
     "Barcode": "",
@@ -677,16 +875,7 @@
     "Alcohol": 14.0,
     "Price": {
       "Alk Outlet": 2.29,
-      "Rimi": 2.39
-    }
-  },
-  {
-    "Name": "Lode Black Original & Grapefruit",
-    "Type": "cocktail",
-    "Barcode": "",
-    "Volume_ml": 500,
-    "Alcohol": 14.0,
-    "Price": {
+      "Maxima/Barbora": 2.34,
       "Rimi": 2.39
     }
   },
@@ -697,6 +886,19 @@
     "Volume_ml": 500,
     "Alcohol": 14.0,
     "Price": {
+      "Alk Outlet": 2.29,
+      "Maxima/Barbora": 2.34,
+      "Rimi": 2.39
+    }
+  },
+  {
+    "Name": "Lode Original & Grapefruit",
+    "Type": "cocktail",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 14.0,
+    "Price": {
+      "Maxima/Barbora": 2.34,
       "Rimi": 2.39
     }
   },
@@ -711,6 +913,17 @@
     }
   },
   {
+    "Name": "Lode Wild Berries",
+    "Type": "cocktail",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 14.0,
+    "Price": {
+      "Alk Outlet": 2.29,
+      "Maxima/Barbora": 2.34
+    }
+  },
+  {
     "Name": "Malibu",
     "Type": "rum",
     "Barcode": "",
@@ -718,8 +931,9 @@
     "Alcohol": 21.0,
     "Price": {
       "Alk Outlet": 19.99,
+      "Maxima/Barbora": 18.39,
       "Rimi": 18.39,
-      "Spirits & Wine": 15.29
+      "Spirits & Wine": 17.99
     }
   },
   {
@@ -729,6 +943,7 @@
     "Volume_ml": 700,
     "Alcohol": 21.0,
     "Price": {
+      "Maxima/Barbora": 12.79,
       "Rimi": 13.39
     }
   },
@@ -765,20 +980,63 @@
   {
     "Name": "Martini Asti",
     "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 1500,
+    "Alcohol": 7.5,
+    "Price": {
+      "Spirits & Wine": 23.69
+    }
+  },
+  {
+    "Name": "Martini Asti",
+    "Type": "wine",
     "Barcode": "8000570435402",
     "Volume_ml": 750,
     "Alcohol": 7.5,
     "Price": {
-      "Rimi": 7.99
+      "Rimi": 7.99,
+      "Spirits & Wine": 10.55
     }
   },
   {
-    "Name": "Martini Bianco White Dessert",
-    "Type": "wine",
+    "Name": "Martini Bianco",
+    "Type": "vermouth",
     "Barcode": "5010677925006",
     "Volume_ml": 1000,
     "Alcohol": 15.0,
-    "Price": {}
+    "Price": {
+      "Spirits & Wine": 12.49
+    }
+  },
+  {
+    "Name": "Martini Bianco",
+    "Type": "vermouth",
+    "Barcode": "",
+    "Volume_ml": 500,
+    "Alcohol": 15.0,
+    "Price": {
+      "Spirits & Wine": 6.95
+    }
+  },
+  {
+    "Name": "Martini Brut",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 750,
+    "Alcohol": 7.5,
+    "Price": {
+      "Spirits & Wine": 11.79
+    }
+  },
+  {
+    "Name": "Martini Prosecco",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 750,
+    "Alcohol": 11.5,
+    "Price": {
+      "Spirits & Wine": 10.55
+    }
   },
   {
     "Name": "Mateus The Original Rosé",
@@ -914,7 +1172,9 @@
     "Barcode": "4750021310959",
     "Volume_ml": 200,
     "Alcohol": 30.0,
-    "Price": {}
+    "Price": {
+      "Maxima/Barbora": 3.09
+    }
   },
   {
     "Name": "Oakheart Original Spiced",
@@ -1148,6 +1408,16 @@
     }
   },
   {
+    "Name": "Saaremaa",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 40.0,
+    "Price": {
+      "Spirits & Wine": 12.99
+    }
+  },
+  {
     "Name": "Shake Club Strawberry - Apple",
     "Type": "cocktail",
     "Barcode": "",
@@ -1226,6 +1496,16 @@
       "Alk Outlet": 1.95,
       "Rimi": 1.99,
       "Spirits & Wine": 1.95
+    }
+  },
+  {
+    "Name": "SOS",
+    "Type": "vodka",
+    "Barcode": "",
+    "Volume_ml": 700,
+    "Alcohol": 38.0,
+    "Price": {
+      "Maxima/Barbora": 7.99
     }
   },
   {
@@ -1383,9 +1663,20 @@
     "Name": "Valhalla by Koskenkorva",
     "Type": "balsam",
     "Barcode": "",
+    "Volume_ml": 1000,
+    "Alcohol": 35.0,
+    "Price": {
+      "Spirits & Wine": 23.99
+    }
+  },
+  {
+    "Name": "Valhalla by Koskenkorva",
+    "Type": "balsam",
+    "Barcode": "",
     "Volume_ml": 500,
     "Alcohol": 35.0,
     "Price": {
+      "Maxima/Barbora": 11.12,
       "Rimi": 11.12
     }
   },
@@ -1457,6 +1748,16 @@
     "Price": {
       "Alk Outlet": 11.25,
       "Spirits & Wine": 13.39
+    }
+  },
+  {
+    "Name": "Vina Amaia Cabernet Sauvignon",
+    "Type": "wine",
+    "Barcode": "",
+    "Volume_ml": 3000,
+    "Alcohol": 12.0,
+    "Price": {
+      "Spirits & Wine": 18.49
     }
   },
   {
