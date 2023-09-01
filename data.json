@@ -30019,12 +30019,12 @@
     {
       "Name": "Jagermeister",
       "Type": "liqour",
-      "Barcode": "",
+      "Barcode": "40677767",
       "Volume_ml": 200,
       "Alcohol": 35.0,
       "Price": {
-        "Spirits & Wine": 5.39,
-        "Rimi": 5.99
+        "Rimi": 5.99,
+        "Spirits & Wine": 5.39
       }
     },
     {
